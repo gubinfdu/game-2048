@@ -104,7 +104,7 @@ class game():
     def check(self):
         '''check the status: win, lose, continue'''
         # win
-        if 32 in self.data:
+        if 2048 in self.data:
             return 1
         # lose
         elif (self.data == 0).sum() == 0:
