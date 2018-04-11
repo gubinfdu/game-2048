@@ -1,4 +1,4 @@
-This file is prepared to realize the popular game 2048. It contains most functions of this game.
+This file is prepared to realize the popular game 2048.
 
 Many parameters could be adjusted easily, such as size (usually 4 * 4), target (usually 2048), random number (usually 2 and 4).
 
